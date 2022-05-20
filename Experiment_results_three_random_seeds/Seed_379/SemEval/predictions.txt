@@ -1,0 +1,100 @@
+uddi;service discovery;distributed hash tables;grid service discovery;web services;grid;dht;distributed systems;grid computing;scalability
+grid computing;self adaptive systems;self adaptation;performance evaluation;grid computing;performance modelling;distributed systems;resource management
+quality of service;error propagation;multimedia communication;packet loss;flow loss recovery;packet loss recovery;speech transmission;distributed video coding
+content management;distributed content management;rich media;spectrum content management;distributed systems;multimedia content management;content based retrieval;spectrum management
+operational transformation;operation context;context based operational transformation;context based systems;collaborative applications;causality;distributed systems;operation context;collaborative work
+decentralized adaptive services;grid computing;peer to peer systems;adaptive services;distributed systems;grid;distributed systems;resource management;grid computing;virtualisation;decentralized systems
+target detection;deployment;sensor deployment;path exposure;wireless sensor networks;sensor deployment;path exposure
+virtual conferencing;voip;real time services;sip;scalability;real time audio conferencing;conference server;virtual conferencing networks;audio conferencing
+emergent intelligence;swarm intelligence;swarm worms;worms;network security;malware;malware detection;security and protection
+service abstraction;modular protocols;service oriented architecture;protocol composition;distributed systems;distributed systems
+data center;context awareness;data center networks;server virtualization;replication;virtualization;reliability;cooperative systems;network management
+middleware;application adaptation;metrics collection;mobile object;mobile computing;middleware adaptation;object oriented programming
+co allocation;data grid;replica selection;coallocation;dynamic adjustment;grid computing;dynamic co allocation;data grid computing;replica management;parallel computing
+localization;wireless sensor networks;performance;spatio temporal analysis;performance evaluation;wireless sensor networks
+task allocation;grid computing;blast search;grid computing;sequence comparison;adaptive task allocation;distributed computing;multi policy grid computing;biological databases
+conflex g;omnirpc;molecular mechanics;molecular mechanics;grid computing;molecular mechanics;grid computing;mpi;molecular mechanics
+peer to peer;data dissemination;overlay networks;high bandwidth;overlay networks and networks;distributed data management;bullet networks;data dissemination algorithms;distributed systems
+file sharing;peer to peer;peer to peer systems;distributed systems;peer to peer systems;distributed file sharing;p2p;distributed file sharing;intranets;p2p systems;document management
+transactional caching;peer to peer;strong consistency;collaborative applications;performance evaluation;collaborative caching
+negotiation;context aware computing;context awareness;context aware computing;distributed negotiation
+pairwise key establishment;wireless sensor networks;security;key predistribution;sensor networks;network security;hypercube
+publish subscribe;access control;encryption;dynamic publish subscribe;distributed systems;security;access control policy;multi domain networks;security;distributed systems security
+peer to peer;peer to peer networks;receiver driven;peer to peer networks;overlay networks;gossiping;distributed hash table;receiver driven overlay networks;p2p
+edge indexing;grid computing;dynamic virtual environments;spatial databases;virtual reality;spatial indexing;spatial databases;distributed databases
+wireless sensor networks;resource allocation;repeated combinatorial auctions;resource allocation;market based resource allocation;strategic behavior;distributed resource allocation;repeated auctions;strategic planning
+query expansion;web retrieval;personalized search;web search;information retrieval;personalization;personalization;query expansion and expansion;personalized search
+information retrieval;user query;query context;context;query log analysis;language modeling;context based retrieval
+personal information management;diary study;task based evaluation;evaluation;information retrieval evaluation;task based evaluation;information management;personal information management evaluation;user study;human factors
+novelty detection;information distillation;relevance feedback;adaptive filtering;information retrieval;utility based distillation;information retrieval;text mining
+em algorithm;bayesian hierarchical model;collaborative filtering;information filtering;user modeling;content based filtering;bayesian hierarchical model;personalization;user modeling;hierarchical modeling
+relevance judgments;retrieval evaluation;test collections;information retrieval;evaluation;test collection evaluation;experimentation;relevance assessment
+clustering;search results;web search logs;information search;information retrieval;web search log analysis;search log analysis
+document clustering;regularized clustering;clustering;regularization;document clustering and retrieval;local regularization
+relevance feedback;image retrieval;active learning;laplacian optimal design;nearest neighbor graph;graph laplacian
+web search;document compression;information retrieval;search engine;web search generation;search engine generation;query biased search
+web search;caption features;clickthrough patterns;information retrieval;user study;web search behavior;caption detection
+web search;user study;query log analysis;query log analysis;information retrieval;information retrieval;web search behavior;user study;search behavior
+caching;search engines;web search engines;static caching;information storage and retrieval;performance evaluation;query processing;web search engines;search engine performance;caching caching
+information retrieval;web search;inverted index;pruning;pruned index;performance;search engine pruning;web search pruning
+mutual information;shared topic detection;weighted mutual information;topic segmentation;topic detection;information retrieval;multiple documents;multi document segmentation
+event detection;spectral analysis;time series analysis;information retrieval;feature trajectories;feature extraction;event detection and retrieval;spectral analysis of event trajectories;aperiodic feature detection
+named entity;event detection;indexing tree;new event detection;information retrieval
+query classification;relevance feedback;web search;rare queries;web search engine;rare query classification;query classification and clustering
+relevance feedback;query log analysis;search engines;web search;information retrieval;advanced search engines;query browsing;interaction logs;user studies;search behavior;web search behavior
+information retrieval;term feedback;relevance feedback;query expansion;language models;information retrieval models;term weighting
+machine learning;average precision;support vector;information search and retrieval;information retrieval;optimization
+pseudo relevance feedback;meta feedback;uncertainty;feedback;information retrieval models
+query expansion;latent concept expansion;markov random fields;pseudo relevance feedback;information retrieval;information retrieval;concept expansion;relevance feedback;latent concept analysis
+information retrieval;query generation;poisson model;multinomial model;query expansion;poisson distribution model
+definitional question answering;natural language processing;information search and retrieval;question answering;information retrieval;human interest model;linguistic features
+intelligent agents;agent programming languages;bdi agents;agent oriented software engineering;bdi;multi agent systems;aborting;bdi agent architectures
+multi agent systems;semi cooperative multi agent systems;negotiation chain;meta level coordination;semi cooperative systems;multi agent coordination;coordination of negotiation chains;meta level negotiation;multiagent planning
+resource allocation;self organisation;multi server environment;distributed multiagent systems;self organising systems;agent based systems;multi server systems;distributed systems;distributed systems
+dynamic semantics;agent communication languages;multiagent systems;agent communication languages;agent communication languages;multiagent systems
+commitment;commitments;extortion;multiagent systems;social choice
+temporal linear logic;linear logic;commitments;multi agent systems;temporal reasoning;agent communication languages
+incremental learning;collaborative learning;multi agent systems;concept learning;consistency;multiagent learning;multiagent learning
+artificial intelligence;agent characterization;multi agent systems;real time behavior evolution;prediction;distributed artificial intelligence;agent based modeling;behavior based systems
+sparse data;multi agent systems;artificial intelligence;coordination;multi agent systems;multiagent learning;agent coordination;dynamic environments
+reinforcement learning;peer to peer;information retrieval;distributed search;peer to peer systems;distributed information retrieval;hierarchical information retrieval
+information searching and sharing;dynamic networks;multi agent systems;routing;information sharing
+advertisement selection;sealed bid auctions;bidding agent;multi agent systems;public displays;auctions;public advertisement selection
+satellite swarm;artificial intelligence;on board planning;swarm intelligence;collaboration;communication;distributed decision making;distributed decision making;decision making;satellite communication
+second price auctions;multiagent systems;global bidding agents;concurrent auctions;bidding strategies;auctions;bidding agents;global auctions
+banzhaf power index;preference aggregation;network flow games;power index;game theory;multiagent systems;coalitional game;multiagent learning
+word of mouth;artificial intelligence;market barriers;multi agent systems;satisficing;small world effects;market barriers and communication networks;agent based modeling;marketing agents
+human agent collaboration;cognitive load modeling;shared belief map;human agent interaction;cognitive modeling
+sequential decision making;economic search;two sided economic search;multi agent systems;distributed decision making;parallel search;sequential decision making;economic search
+multi agent systems;multi agent systems;distributed management;agent architecture;flexible manufacturing systems;coordination of multiple agents;distributed ai;scheduling;agent architectures;collaborative agents
+task allocation;social networks;contract net protocol;distributed task allocation;multi agent systems;distributed computing;social network analysis;distributed algorithm;multiagent coordination
+modal logic;judgment aggregation;preference aggregation;artificial intelligence;majority voting;knowledge representation;reasoning about judgment
+modal logic;zero sum;knowledge representation;multiagent systems;adversarial environment;utility theory;adversarial reasoning;multiagent systems
+modal logic;institutional norms;formal semantics;organizational structures;norms;formal semantics;institutions
+multi agent systems;conflict;inconsistency;virtual organizations;multi agent systems;norm regulated virtual organizations;conflict resolution;norms;norm regulated organizations
+multi agent systems;coloured petri nets;norms;conflict resolution;distributed norm management;distributed systems;normative structure
+incentive compatibility;generalized trade reduction;mechanism design;trade reduction;double sided markets;mechanism design;distributed markets;electronic commerce
+mechanism design;vickrey clarke groves mechanism;worst case analysis;redistribution;worst case optimal redistribution;multiagent systems;mechanism design;vcg payments;multiagent systems
+budget optimization;search based advertising;game theory;search based auctions;advertising
+keyword auctions;ranking rules;revenue optimization;keyword search;revenue management;auction theory
+compatibility;social networks;diffusion of innovations;instant messenger;technology spread;social network analysis;technology diffusion
+strong equilibrium;cost sharing;price of anarchy;price of anarchy;connection games;cost sharing games;game theory
+information market;distributed information market;economics of information;trading strategies;distributed computing;information theory;economic analysis;social networks
+user behavior;reporting feedback;online reviews;tripadvisor;user behavior analysis;information quality;online reporting;linguistic analysis
+price setting;game theory;trading networks;economics of social networks;social networks;network design;social networks;price setting markets
+winner determination;combinatorial auctions;structured item graphs;computational complexity;structured item graphs;hypertree decomposition;graph algorithms;treewidth
+graphical games;equilibrium selection;nash equilibrium;best response policy;game theory;nash equilibria
+value decomposition;generalized value decomposition;multiattribute auctions;utility theory;auctions bidding;decision theory;value based auctions
+cycle monotonicity;mechanism design;approximation algorithms;multi dimensional scheduling;scheduling;truthful mechanism design;algorithmic mechanism design;mechanism design;mechanism design;theory of computation
+position auctions;game theory;mediators;incomplete information;electronic commerce;multi agent systems;multiagent systems;electronic commerce;mediator
+column generation;clearing algorithms;barter exchange markets;computational social choice;kidney;barter;kidney disease;social choice
+information markets;projection game;betting game;game theory;strategic model;economics of information markets;strategic information;information market design;social economics
+permutation betting;computational complexity;computational complexity;approximation theory;arbitrage;arbitrage;permutation matching
+vertex cover;shortest path auctions;mechanism design;set system auctions;set system auctions;mechanism design;frugality ratio;truthful mechanisms;auctions
+computational complexity;compound auctions
+game theory;electronic commerce;distributed systems;economic theory;combinatorial game theory;mechanism design;agency
+revealed preference;degree of confidence;learning;forecasting;learning from demand;nonparametric learning;learning from demand;demand prediction
+approximation algorithms;mechanism design;multi unit auctions;vickrey clarke groves mechanism;bidding languages
+mechanism design;game theory;social choice;action space;bounded action space;signaling games;mechanism design and implementation;social choice theory
+game theory;multiagent systems;bayesian games;leadership;optimal strategy;commit;multiagent systems
+graphical games;nash equilibria;dynamic programming;pathwidth;game theory;ppad;trees
