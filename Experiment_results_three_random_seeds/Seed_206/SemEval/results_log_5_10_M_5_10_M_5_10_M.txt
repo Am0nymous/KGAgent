@@ -1,0 +1,79 @@
+Total #samples: 100	 # samples with present keyphrases: 100	 # samples with absent keyphrases: 100
+Max. unique targets per src: 28
+Total #unique predictions: 698/763, dup ratio 0.085
+Total #unique present predictions: 402/451, present_dup ratio 0.109
+Total #unique absent predictions: 231/247, absent_dup ratio 0.065
+===================================all====================================
+#predictions after filtering: 698	 #predictions after filtering per src:6.980
+#unique targets: 1443	 #unique targets per src:14.430
+Begin===============classification metrics all@5===============Begin
+#target: 1443, #predictions: 500, #corrects: 182
+Micro:	P@5=0.364	R@5=0.12613	F1@5=0.18734
+Macro:	P@5=0.364	R@5=0.13091	F1@5=0.19257
+Begin===============classification metrics all@10===============Begin
+#target: 1443, #predictions: 1000, #corrects: 206
+Micro:	P@10=0.206	R@10=0.14276	F1@10=0.16865
+Macro:	P@10=0.206	R@10=0.14744	F1@10=0.17187
+Begin===============classification metrics all@M===============Begin
+#target: 1443, #predictions: 698, #corrects: 206
+Micro:	P@M=0.29513	R@M=0.14276	F1@M=0.19243
+Macro:	P@M=0.3019	R@M=0.14744	F1@M=0.19812
+Begin==================Ranking metrics all@5==================Begin
+	MAP@5=0.10469	NDCG@5=0.69774	AlphaNDCG@5=0.70212
+Begin==================Ranking metrics all@10==================Begin
+	MAP@10=0.11282	NDCG@10=0.7325	AlphaNDCG@10=0.75843
+Begin==================Ranking metrics all@M==================Begin
+	MAP@M=0.11282	NDCG@M=0.7325	AlphaNDCG@M=0.75843
+===================================present====================================
+#predictions after filtering: 451	 #predictions after filtering per src:4.510
+#unique targets: 612	 #unique targets per src:6.120
+Begin===============classification metrics present@5===============Begin
+#target: 612, #predictions: 500, #corrects: 176
+Micro:	P@5=0.352	R@5=0.28758	F1@5=0.31655
+Macro:	P@5=0.352	R@5=0.31294	F1@5=0.33132
+Begin===============classification metrics present@10===============Begin
+#target: 612, #predictions: 1000, #corrects: 188
+Micro:	P@10=0.188	R@10=0.30719	F1@10=0.23325
+Macro:	P@10=0.188	R@10=0.32864	F1@10=0.23918
+Begin===============classification metrics present@M===============Begin
+#target: 612, #predictions: 451, #corrects: 188
+Micro:	P@M=0.41685	R@M=0.30719	F1@M=0.35372
+Macro:	P@M=0.4095	R@M=0.32864	F1@M=0.36464
+Begin==================Ranking metrics present@5==================Begin
+	MAP@5=0.24454	NDCG@5=0.71863	AlphaNDCG@5=0.75106
+Begin==================Ranking metrics present@10==================Begin
+	MAP@10=0.25344	NDCG@10=0.7369	AlphaNDCG@10=0.76721
+Begin==================Ranking metrics present@M==================Begin
+	MAP@M=0.25344	NDCG@M=0.7369	AlphaNDCG@M=0.76721
+===================================absent====================================
+#predictions after filtering: 247	 #predictions after filtering per src:2.470
+#unique targets: 831	 #unique targets per src:8.310
+Begin===============classification metrics absent@5===============Begin
+#target: 831, #predictions: 475, #corrects: 18
+Micro:	P@5=0.037895	R@5=0.021661	F1@5=0.027565
+Macro:	P@5=0.036	R@5=0.026298	F1@5=0.030394
+Begin===============classification metrics absent@10===============Begin
+#target: 831, #predictions: 950, #corrects: 18
+Micro:	P@10=0.018947	R@10=0.021661	F1@10=0.020213
+Macro:	P@10=0.018	R@10=0.026298	F1@10=0.021372
+Begin===============classification metrics absent@M===============Begin
+#target: 831, #predictions: 247, #corrects: 18
+Micro:	P@M=0.072874	R@M=0.021661	F1@M=0.033395
+Macro:	P@M=0.072833	R@M=0.026298	F1@M=0.038643
+Begin==================Ranking metrics absent@5==================Begin
+	MAP@5=0.019642	NDCG@5=0.13542	AlphaNDCG@5=0.19092
+Begin==================Ranking metrics absent@10==================Begin
+	MAP@10=0.019642	NDCG@10=0.13542	AlphaNDCG@10=0.19092
+Begin==================Ranking metrics absent@M==================Begin
+	MAP@M=0.019642	NDCG@M=0.13542	AlphaNDCG@M=0.19092
+===================================MAE stat====================================
+MAE on keyphrase numbers (all): 7.45
+MAE on keyphrase numbers (present): 2.55
+MAE on keyphrase numbers (absent): 5.84
+===================================PK AK stat====================================
+PK:4.51
+AK:2.47
+PK_G:6.12
+AK_G:8.31
+ALL:6.98
+ALL_G:14.43
