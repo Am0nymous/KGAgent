@@ -1,0 +1,211 @@
+entropy;ramsey graphs;challenge response;frankl wilson;sub polynomial entropy;bootstrap;ramsey theory;<digit> source dispersers;dispersers;graph extractor
+inverse document frequency;parameter estimation;information retrieval models;inverse document frequency;probability;poisson distribution;frequency based retrieval;probabilistic models
+web crawling;fault tolerance;high performance crawling;crawling;high performance computing;real time systems;distributed systems;distributed systems;distributed systems;web crawling
+hiperlan <digit>;public access;quality of service;ieee <digit>;3g;authentication;public access control;cellular;interworking;3g interworking
+shadow metaphor;semantic networks;visualization;information displays;interaction techniques;user interface design;information visualization;information visualization;illustrative visualization;2d 3d displays;3d visualization
+content targeted advertising;impedance coupling;search based advertising;information retrieval;web search;impedance matching
+it fundamentals;model curriculum;knowledge area;it model curriculum;it education;curriculum development;curriculum;it education;knowledge management
+clickthrough information;user modeling;personalized search;relevance feedback;implicit user modeling;query expansion;information retrieval;decision theory;implicit feedback;personalization
+approximation search;branch and bound;nearest neighbour search;nearest neighbour search
+partial evaluation;value flow analysis;embedded languages;static analysis;static program analysis;program analysis;embedded software;reliability;verification
+data mining;incremental mining;sequential patterns;database management;incremental data mining;data mining algorithms
+semantic web;rdf;index structures;query processing;distributed rdf repositories;distributed databases;query optimization
+continuation passing style;closure conversion;abstract machines;functional programming;defunctionalization;functional programming;theory;design;type systems;verification
+dynamic time warping;longest common subsequence;time series;data mining;indexing;longest common subsequence model;time series data mining;multi dimensional data;trajectory data mining
+information retrieval;language tutoring;natural language processing;web search;information retrieval models;web search;language models
+geographical locality;information retrieval;search engine;web search;query categorization;web queries;query reformulation;user profiling
+privacy;information revelation;online social networks;social networks;privacy enhancing technologies;online social networks;information privacy;social networking sites
+topic distillation;information extraction;document object model;macroscopic distillation;hubs;link analysis;information retrieval;web mining;document object model
+information assurance;information assurance education;curriculum committee;computer science education;curriculum development;curriculum development;curriculum
+interactive machine learning;machine learning;perceptual user interfaces;ubiquitous computing;human computer interaction;user interfaces;interactive learning;image classification
+background knowledge;data mining;interestingness;bayesian networks;frequent itemsets;data mining;knowledge discovery;frequent itemset mining;association rules
+bluetooth;ieee <digit>;mutual interference;performance evaluation;interference;interference evaluation;interference;wireless networks;wlan;simulation;interference modeling;power consumption
+information art;ambient display;evaluation;human factors;peripheral display;information visualization;user study;design
+3d graphics;geometric constraint library;graphical user interfaces;constraint satisfaction;virtual reality;3d graphics;geometric constraint solving;constraint based modeling
+data centric storage;sensor networks;load balancing;wireless sensor networks;network storage;distributed algorithms;distributed algorithms
+topic tracking;natural language processing;story link detection;language specific models;language model;multilingual topic tracking;story link detection
+lazy preservation;digital preservation;web crawler;web crawling;website crawling
+imbalanced data sets;support cluster machines;large scale imbalanced data sets;large scale data sets;concept learning;meta algorithm;clustering
+query languages;machine learning;information retrieval;web information retrieval;web interfaces;query expansion
+data mining;clustering;spatially variant dissimilarity;dissimilarity measure;similarity measure;data mining;spatially variant learning;feature selection;dissimilarity measure learning
+spectral kernel learning;semi supervised learning;active learning;semi supervised kernel learning;classification;kernel logistic regression;unified kernel machines;kernel logistic regression;pattern recognition;kernel methods
+computer graphics;3d graphics;3d graphics hardware;graphics hardware;graphics hardware
+indexing;location dependent data;data dissemination;location based indexing;location based service;days;data dissemination in wireless networks;wireless networks
+bagging;lossless learning;online learning;online learning;bayesian inference;bayesian bagging;lossless data;bayesian inference
+machine learning;table detection;web mining;knowledge management;ground truthing protocol;web mining;text mining;table understanding
+photon mapping;block hashing;hardware accelerated rendering;hardware acceleration
+unit size tasks;online scheduling;competitive analysis;lower bounds;online algorithms;scheduling;competitive ratio;oblivious scheduling
+machine learning;concept learning;digital libraries;information architecture;natural language processing;information retrieval;text mining;information retrieval
+machine learning;cancer classification;feature selection;dna microarray;support vector machine;dna microarray analysis;cancer;feature selection and selection;classification
+machine learning;data mining;semi supervised learning;microarray analysis;low level microarray analysis;resequencing;genotyping;gene expression analysis;microarray data;microarray
+dependence analysis;cohesion;object oriented programming;ada95;software engineering;object oriented programming;empirical software engineering;measurement;package cohesion
+e government;measurement;public administration;e government measurement;measurement techniques
+average flow time;approximation algorithms;scheduling;related machines;on line algorithms;competitive analysis;analysis of algorithms;average flow time;competitive algorithms;scheduling theory;sequencing
+machine learning;latent dirichlet allocation;social network;semantic content classification;social network analysis;personal social network;personal social network;personal information management;information retrieval;information dissemination prediction
+petri nets;object oriented design;colored petri nets;behavioral modeling;object oriented software design;object oriented design;concurrent objects;software architecture;uml;concurrent engineering;behavioral modeling
+intranet search;information extraction;information retrieval;intranet;search by type;search log analysis;information retrieval system
+epidemic theory;wireless sensor networks;node compromise;random graphs;sensor networks;key predistribution;security;trust;potential defense;node compromise spreading
+wireless sensor networks;routing protocols;adversary model;secure routing;security;sensor networks;security;routing
+privacy;group privacy;database obfuscation;privacy preserving data publishing;security;database security;obfuscation;data privacy
+peer to peer;data integration;query answering;peer to peer systems;computational complexity;peer agreements;peer to peer systems;complexity;query processing
+data mining;statistical quantitative rules;false discovery rate;quantitative rules;resampling;data mining algorithms;statistical learning;online learning;classification
+wireless sensor networks;mixed communication modes;transmission range;energy efficiency;cluster based sensor networks;communication range
+parallel crawler;parallel crawling;performance evaluation;web crawling;parallel web crawling
+proxy;network games;game theory;3g network;interactive network games;wireless lan;proxy based
+graphics hardware;cellular automata;visual simulation;coupled map lattice;real time rendering;computer graphics;physically based animation;gpu;interactive graphics;lattice computing
+presence;virtual reality;human factors;virtual reality;haptics;physiological measures of presence;physiological measures;virtual reality;experimentation
+contextual information;text segmentation;chinese text;logistic regression;statistical formula;information retrieval;text mining;statistical analysis;chinese text mining
+trust negotiation;automated trust negotiation;access control;attribute information leakage;information leakage;security;policy database;privacy;information security;information security;policy based security
+markov chain monte carlo;information discovery;author topic models;text mining;topic models;probabilistic topic models;text mining;information extraction;author topic models;unsupervised learning
+usability;user interface;proportional search;search user interfaces;evaluation;information retrieval;search user interface;information retrieval evaluation;user interface evaluation;search accuracy
+remote rendering;3d graphics;image based rendering;interactive rendering;3d reconstruction;remote rendering
+human robot interaction;multi modal attention;mobile robot;attention;human robot interaction;multi modal fusion
+personalization;e commerce;product information;human factors;human computer interaction;persuasive technology;user interface design;persuasion;attention;attention;information retrieval
+ownership protection;watermarking;relational databases;information hiding;distortion;data hiding
+superimposed applications;conceptual modeling;context;sparce;sparce;pluggable;information integration;context aware applications;superimposed data;interoperability
+quality of service;bluetooth;ad hoc networks;bluetooth ip;handoff;qos;ip bluetooth
+question answering;content analysis;information retrieval;text mining;web search
+programming languages;computer science education;computer science curriculum;freshmen;curriculum design;pedagogy
+e commerce;query result ranking;web database;ranking;query result ranking;information retrieval;web query;query ranking
+homepage finding;mutual information;web document retrieval;query type;information retrieval;user query classification;query expansion;web document classification
+superimposed information;bi level queries;information management;xml;bi level query;information retrieval;query processing;query processing;superimposed queries
+blind ranking;protocol aware ranking;ranking;packet sampling;flow size distribution;sampling;measurement;measurement techniques;performance evaluation;flow analysis;network measurement;network flow
+web navigation;pagerank;navigational queries;layered graph;target object;dag
+vertical search;web object ranking;photo ranking;information retrieval;ranking;web object fusion;information retrieval
+information sharing;semantic web;social networks;real world information sharing;privacy enhancing technologies;privacy;information retrieval;social network analysis;information privacy;web based information sharing;user interaction
+peer to peer;remote access;peer to peer systems;spatial databases;client server architecture;distributed databases;remote data access;distributed databases
+information retrieval;multimedia scientific data;information retrieval;scientific information;multimedia information retrieval;scientific information retrieval
+weyuker properties;information complexity;cognitive information complexity measure;robustness;cognitive weight;software metrics;cognitive complexity measure
+bluetooth;pseudo random;scheduling;scatternet;bluetooth technology
+dynamic linking;wireless sensor networks;reprogramming;run time dynamic linking;virtual machine;run time linking;design;java;design;energy efficiency;experimentation;performance
+sensor networks;debugger;simulation;performance;fault tolerance;simulation based debugging;distributed debugging
+data aggregation;sensor networks;wireless sensor networks;dynamic events;wireless sensor networks;semi structured data aggregation;scalability;event based;dynamic network aggregation
+data mining;graph pattern mining;disk based graph databases;adjacency index;adi;graph mining;gspan;disk based graph mining;large graph databases
+quality of service;ip multimedia subsystem;ip multimedia subsystem architecture;multimedia services;ims;security;gba;security;sip
+sensor networks;in network aggregation;in network aggregation;aggregation;security;security and privacy protection;byzantine fault tolerance;secure aggregation;hierarchical aggregation;privacy
+wireless sensor networks;publish subscribe;middleware;energy efficiency;publish subscribe systems;energy efficiency
+broadcast authentication;authentication;sensor networks;sensor network security;security;taxonomy
+hypothesis testing;support vector machines;gene ranking;classification;microarray data analysis;resampling;statistical significance
+local geometric measures;volume rendering;contour tree;isosurfaces;geometric measures;volume visualization
+sensor networks;neighbor watch;packet dropping;wireless sensor networks;packet dropping;network security;security;security;packet dropping attacks
+option pricing;quasi monte carlo;higher rank lattice rules;monte carlo methods;lattice rule;higher rank rules;composite integer
+world wide web;hidden web;information retrieval;search engines;information retrieval;web search;hypermedia;query formulation;search engine exploration
+visually impaired;braille;indian language;assistive technology;blind;indian language toolset;blind;blind users;accessibility
+human computer interaction;camera animation;virtual reality;3d navigation;interactive 3d navigation;3d navigation
+tactons;non visual information display;tactile displays;non visual interaction;tactile display;structured tactile display
+tcp;variable rate;ack regulator;delay;wireless link;3g;tcp ip;rate;wireless lan;tcp performance modeling
+sql;sql server;database management;oracle;database management systems
+maximum entropy;information retrieval;information storage and retrieval;average precision;retrieval measures;performance evaluation;experimentation;performance evaluation;measurement;measurement evaluation
+singular value decomposition;similarity measure;data mining;motion stream segmentation;eigenvector difference;motion analysis;motion pattern;motion segmentation
+topic maps;semantic web;ontologies;query languages;information extraction;knowledge representation;semantic web technologies;topic model;ontology merging;constraint based modeling
+scientific computing;cell processor;performance modeling;stream programming;performance modeling;performance modeling;parallel programming
+ontology;software component;domain ontology;component information retrieval;mediation;component based software engineering;information retrieval;component based software engineering;software component mediation
+web services;quality of service;ontology;web services;semantic web services;cooperative discovery;personalization;service discovery;web service discovery;ontology based web services
+word prediction;topic modeling;fringe word prediction;natural language processing;aac;language model;prosody;speech recognition;topic modeling and prediction
+topic transition detection;hierarchical hidden markov model;semi markov models;hidden markov model;video content analysis;coxian distribution;topic detection and tracking;probabilistic graphical models;hierarchical models
+relevance ranking;information retrieval;video search;machine learning;information retrieval;content based video retrieval;video metadata;ranking;video retrieval;web video search
+access control;xacml;policy decomposition;security;access control policy;security policy;lithium;formal methods
+finite mixture model;topic trend analysis;data mining;topic structure identification;topic tracking
+risk analysis;information systems;theft of information;security;management;information security;information systems education;computer security;information security;computer security;information security
+collaborative information seeking;information seeking;collaboration;academic researchers;collaboration;survey;collaborative work;information seeking behaviour;user studies;social network
+fault tolerance;transactional agent;transaction processing;mobile agents;fault tolerant systems;fault tolerant systems;distributed systems;surrogate agent;mobile agent systems
+cross language information retrieval;digital libraries;web search;term translation;unknown query terms;cross language ir;web based search;query translation
+type indexed functions;generic programming;design patterns;haskell;types;type indexed functions
+uml;service robot;object oriented design;intelligent service robot;software engineering;object oriented design;intelligent robot
+resource selection;distributed information retrieval;information retrieval;distributed information retrieval;text mining
+unwanted traffic;security;umts;network monitoring;3g;network security;unwanted traffic measurement;3g network traffic;traffic measurement
+attention metadata;ranking;relevance feedback;learning objects;contextual recommendation;metadata;learning object ranking;information filtering;attention metrics
+code churn;relative code churn;system defect density;statistical regression;software engineering;defect density;software metrics;code metrics;empirical study;system defect prediction
+case based reasoning;traffic pattern recognition;resource management;w cdma;3g networks;intelligent agent
+separation of concerns;role modeling;business process modeling;business object model;business process management;business process management;object oriented design;role engineering
+ambient information systems;taxonomy;design space;design;design patterns;tangible user interfaces;user studies;information design;ambient intelligence;design methods
+query generation;relevance feedback;user profile;information agents;web helper;information retrieval;web search;user modeling;query expansion
+mpeg <digit>;machine learning;inter frame prediction;video coding;video transcoding;transcoding;decision tree;mpeg <digit> video transcoding
+video streaming;mobile networks;third generation mobile networks;3g;moving users;3g networks;video streaming;3g mobile networks;distributed applications
+co bootstrapping;semantic web;data mining;taxonomy integration;pattern recognition;web mining;knowledge discovery;data integration;classification;taxonomy classification
+indian language;search engine;web search;indian language content;multiple character encodings;web search engine;<unk>;multi script content;transcoding
+focused crawling;digital libraries;missing documents;information retrieval;information retrieval;citeseer;missing data;document organization
+two phase sampling;information extraction;hidden web databases;web based services;information retrieval;information retrieval;web page classification;query expansion
+quality of service;3g mobile networks;qos;provider revenue;admission control;adaptive control;quality of service measures;handover failure probability;umts;mobile ip;qos provisioning;qos provisioning
+facet based component retrieval;weighted ranking;component retrieval;ranking;facet based retrieval;facet
+relevance feedback;focused crawling;online relevance feedback;information retrieval;text mining;online learning;experimentation
+graphics hardware;3d convolution;volume visualization;computer graphics;volume rendering;graphics hardware;convolution;3d graphics;interactive visualization
+agent technology;information filtering;personal information system;multi agent system;content based filtering;agent based system;personalized information filtering;intelligent information filtering;information filtering
+information retrieval;associative networks;knowledge representation;fuzzy search;spreading activation;information retrieval system;fuzzy logic
+g m <digit>;self similar;queueing theory;performance evaluation;analytical model;markov processes;qos;analytical modeling
+theorem proving;language with bindings;type theory;higher order abstract syntax;meta reasoning;meta reasoning;bindings;formal verification;object language;languages;formal methods;reflective formal reasoning
+load balancing;software engineering;asymmetrical parallel computations;high performance computing;parallel computing;architectural style;asymmetrical parallel programming
+bioinformatics;machine learning;data mining;supervised learning;machine learning algorithms;bioinformatics databases
+aspect oriented programming;aspect oriented programming;security;operating systems;arachne;prefetching;c
+grey box ' principle;index system;quality synthesis;business website;hierarchical clustering;electronic business;evaluation;subject descriptors;business intelligence;quality evaluation
+3d animation;non photorealistic rendering;virtual reality;human computer interaction;3d animation;visual animation
+test case generation;software engineering testing;software testing;database testing;test cases;database applications;intensional testing
+clustering;3g network;soft handover;neural networks;handover measurements;handover;cluster analysis;handover management;mobile ipv6
+aspect oriented programming;real life;web crawling;component based software;case study;component based software engineering;software evolution
+sensor networks;data aggregation;fault tolerance;security;security;wireless sensor networks;network security
+event clustering;semantic topic;rich presentation;content analysis;generative model;information retrieval;semantic topic model;multimodal information retrieval;topic modeling;automatic presentation;rich media
+database security;database management;security;curriculum development;database security education;security education
+machine learning;information retrieval;title extraction;general documents;general document extraction;information extraction;document extraction;document extraction
+node recovery;wireless sensor networks;intrusion detection;sensor networks;security;security;distributed algorithm;fault tolerance;security protocol;distributed algorithm
+text classification;bayesian online classifiers;information filtering;online classifiers;bayesian classifier;text classification and classification;online learning
+pagerank;machine learning;static ranking;ranking;information retrieval;web search
+black box;secure computation;public key encryption;homomorphic encryption;black box reductions;communication complexity;one way trapdoor functions;trapdoor permutation;cryptography
+bluetooth;dynamic scheduling;quality of service;interference mitigation;quality of service guarantees;scheduling;qos;wireless networks;qos;qos;qos guarantees
+breadth first search;pagerank;information retrieval;web crawling
+instant messaging;display names;broadcast;human computer interaction;broadcasting;cscw;collaborative work;user interface design;instant messaging systems;information sharing;broadcast information broadcasting
+research library;information retrieval;internet;web history;social media;human factors in web;research libraries;web history;internet search
+women computing;computing education;history narratives;computer science education;narratives;history education;interviews;women computing education
+dependability;fault tolerance;bio inspired computing;reliability;embryonics;quantum computing;emerging technologies;bio inspired computing;fault tolerance in microelectronics;quantum computing
+community information systems;sustainability;adaptive structuration theory;user centered design;digital government;information systems;computerized information systems;information systems development;community informatics;digital government sustainability;technology adoption;sustainability assessment
+machine learning;network security;security;intrusion detection systems;taxonomy
+information retrieval;computer graphics;venn diagram;information visualization;pen based computing;interactive system
+query evaluation;integer compression;compression;retrieval efficiency;performance;inverted index;data compression;inverted index compression;data compression;data compression;indexing methods
+consistent query answers;relational algebra;conflict hypergraphs;inconsistent databases;query answer;query processing;consistent query answering;theory of computation;database repair
+consistent query answering;query answering;conjunctive queries;datalog;integrity constraints;key dependencies;key dependencies;database management
+web information systems;context awareness;usability;maintainability;context;context aware systems;web 2.0;user study
+object recognition;symmetry;partial object recognition;image databases;contour based object recognition;symmetry detection;image analysis;shape reconstruction
+entropy;categorical clustering;clustering;data streams;data mining;incremental algorithm
+cohesion;component reusability;coupling;java;search engine;evaluation;software metrics;reusability;component reusability
+3d graphics;distributed programming;virtual reality;object oriented programming;object oriented programming;distributed programming;3d graphics;groupware
+feature selection;machine learning;stochastic gradient boosting tree;support vector machine;navigational query identification;maximum entropy;web search;maximum entropy;classification
+functional verification;bayesian networks;test generation;coverage directed test generation;coverage directed verification
+information retrieval;digital libraries;information retrieval systems;indexing;search engines;user studies;text indexing
+data mining;multidimensional scaling;supervised learning;metric space;cross entropy;boosting;boosted stumps;metric learning
+database security;security curriculum;infosec;database protection;database security policy;privacy;security policy;security policy
+self routing;ad hoc networks;bluetooth;structure de bruijn graph;scatternet formation;scatternet;de bruijn graph;wireless ad hoc networks;scatternet formation
+e commerce;electronic commerce;internet;information technology
+structuration theory;south africa;critical social theory;communicative action;information systems design;is design;information systems development;communicative action theory;habermas;is design;is design;design theory
+bayesian networks;diagnosis;tcp;overlay connection failures;measurement;tcp ip;network monitoring
+digital asset management;xml;digital asset management;database;database management;xml database management
+bluetooth;scatternet scheduling;scheduling;scatternet;distributed algorithms;traffic dependent scheduling;fairness;bluetooth scatternet
+web directories;information filtering;ranking;web mining;information retrieval models;topic ranking;topic ranking
+service discovery;ranking;biased relevance;web services;data intensive web services;web service discovery;personalized service discovery;service discovery and ranking;basil;personalization;personalization
+mpeg <digit>;visual information retrieval;distance measures;information retrieval;content based image retrieval;visual information retrieval;mpeg <digit> database;proximity measure
+human robot interaction;children;intelligent creatures;aibo;robot;robot;intelligent robot;robot attitudes;robotic pets
+hidden web;query generation;information retrieval;keyword search;search engine optimization;query processing
+aspect oriented programming;meta aspectj;aspectj;domain specific languages;java;software engineering;language extension;language design and implementation;languages;design patterns;program transformation
+query disambiguation;query log analysis;information retrieval;query log analysis;query disambiguation;web search engine;experimentation
+text categorization;generalized singular value decomposition;singular value decomposition;support vector machines;multi class classification;discriminant analysis;multi way classification
+query processing;inverted file;phrase query;search engines;auxiliary index;phrase query processing;indexing methods;data warehousing
+indexing;image retrieval;size invariant matches;object retrieval;shape retrieval;shape similarity
+voxelization;graphics hardware;3d slicer;distance transform;3d graphics
+semantic web;rdf;semantic associations;property sequence;query languages;similarity;semantic web technologies;semantic web technologies;property isomorphism
+energy management;memory resident databases;query restructuring;design space exploration;memory management;performance;performance;query optimization;energy aware systems
+security;information flow analysis;safety models;software engineering;spark;safety;security models;verification;program analysis
+self organization;entropy;multi agent systems;shannon entropy;coordination;thermodynamics
+sensor selection;target localization;entropy;localization;target localization;entropy based localization;distributed sensor networks;sensor fusion;sensor networks
+pagerank;global pagerank;markov chain;algorithms;web search
+data mining;similarity measures;orkut social network;social networks;online information services;social network analysis;similarity measures for social networks
+relation browser;machine learning;information retrieval;evaluation;human computer interaction;search interface;user interface;user interface design;information retrieval;search interface design;user interface;browsing;video retrieval
+event threading;news topic;event recognition;topic modeling;clustering;news topic modeling;topic modeling;event modeling
+particle swarm optimization;support vector machines;large margin optimization;kernel methods;statistical learning;learning classifier systems;pattern classification;evolutionary algorithms;kernel functions
+corba;object oriented programming;profile management;object oriented programming;jini;reference manager;object oriented design;middleware;middleware;profile based middleware
+fan out;human robot interaction;multiple robots;human robot interaction;interaction effort;human robot interaction;multi robot systems;interaction effort
+order preserving compression;string sorting;word ram;compressed data;information retrieval;sorting;string algorithms;compressed data structures;data compression;compression
+3d graphics;dynamic random access memory;image based rendering;3d graphics hardware;z buffer;z buffer;dynamic memory;memory optimization
+named entity recognition;machine learning;focused named entity recognition;natural language processing;information retrieval;text classification;focused entity recognition
+lazy evaluation;haskell;theory of computation;verification of programming languages;languages;theory;languages
+web query classification;category selection;query classification;taxonomy;web search;query formulation
+collaborative crawling;geographically focused crawling;crawling strategy;web crawling;information retrieval;collaborative search
+3d graphics;rasterization;mobile phones;performance evaluation;mobile computing;3d graphics hardware;benchmark;embedded systems
+vertical handoff;handoff trigger table;proactive handoff;wlan;handoff;3g wlan;wireless lan
