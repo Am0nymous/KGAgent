@@ -1,0 +1,500 @@
+libraries;program
+object oriented design;object oriented;nfo;functional flow analysis
+modus ponens rule;fuzzy bayesian inference;bayesian inference;fuzzy sets;pseudofuzzy quantity;fuzzy sets
+safe problem;modulo <digit> residue number system;residue;safe solution;modulo;matrix algebra
+non markovian;steady state availability;accelerated simulation;availability;non markovian simulation;simulation;markov chain;reliability
+optimal control;finite element method;elliptic equations;finite element;distributed systems;computational finite element schemes;computational finite element method;elliptic equations with conjugate conditions;error estimates
+informative attributes;identification;complex systems;fuzzy set theory;fuzzy sets;state of the state
+clone decomposition;boolean function;decomposition;q partitioning;boolean functions with boolean functions
+nonlinear extrapolation;canonical decomposition;pugachev canonical decomposition;extrapolation;random process;nonlinear extrapolation;random process;scalar process
+linear algebraic equations;system of linear algebraic equations;lambda matrix
+compatibility;systems of linear constraints;linear constraints;minimal generating sets
+project management;information services
+z channel;error correcting codes;lower bounds;error correcting codes
+abstraction;process algebra;descriptological;intensional programming;programming languages
+scalable video;orthogonal frequency division multiplexing;precoded ofdm;adaptive vector channel allocation;intersymbol interference;ofdm;vector channel allocation;frobenius norm;channel estimation;adaptive channel allocation
+wireless markup language;wap;site management;intelligent management system;wap site management system;intelligent system;mobile phone site management
+government procurement law;electronic government procurement;procurement;online bidding;electronic government;government information systems;information technology
+mobile manipulator;bridge crack;bridge inspection;mobile robot
+building management system;facilities management;distributed component object model;web based access;database integration;internet;internet;fms;internet;web based services
+perceived ease of use;technology acceptance;ease of use;user acceptance;compatibility;building management systems;technology acceptance model;information systems;user acceptance of technology;building performance;user satisfaction
+geographic information systems;collective dose;geographic information systems;population dynamics;collective dose estimation
+magnetic resonance imaging;computed tomography;magnetic resonance imaging;monte carlo simulation;image processing;computer simulation
+out of print music;music;music information retrieval;music information retrieval;acquisition;information retrieval;digital libraries
+airy stress function;inverse method;functionally gradient cantilever;piezoelectric cantilever;density distribution profile;density functionally gradient cantilever;piezoelectric;piezoelectric material
+magneto optical resonance;quantum memory;quantum information;quantum information
+decoherence;quantum computing;decoupling pulses;encoding;quantum information processing
+mass media;percolative phase transition;social percolation;percolation;ghost field;sociophysics;social dynamics
+long range dependence;detrended fluctuation analysis;long range dependence;periodogram regression;confidence intervals;financial time series;periodogram
+cellular automata;cellular automaton;pedestrian dynamics;chemotaxis;herding;bionics;evacuation processes;pedestrian dynamics simulation;evacuation simulation;simulation
+recurrent bus;dynamical transition;periodic motions;nonstops;recurrent time attractor;nonlinear dynamics
+cellular automata;penna model;penna model;verhulst factor;predation
+option pricing;path integral;non gaussian fluctuations;stochastic calculus;non gaussian fluctuations;truncated levy distribution;levy;path;stochastic processes
+quantum game theory;quantum computation
+neural networks;finite state machines;learning;emergence;symbol grounding;evolutionary computation;hierarchical representations;connectionism
+cellular automata;power law;disruptive interference;exit dynamics;jamming;streaming;interference;pedestrian dynamics
+nagel schreckenberg model;highway traffic;toll collection;phase separation;tollbooths;highway traffic
+statistical mechanism;statistical analysis;banking
+growth rate;variance;scaling;cybernetics;scaling
+foreign exchange markets;high frequency data;markov behavior;foreign exchange markets;markov chain;econophysics;antipersistent behavior;statistical inference
+chaos;stock market dynamics;stock market;nonlinear dynamics;chaotic dynamics
+nonlinear time series;time series;high frequency;currency exchange;recurrence quantification analysis;stationarity;high frequency data;stationarity;stationarity;recurrence plot;nonlinear dynamics;stationarity
+singular spectrum analysis;realized volatility;realized volatility;logarithmic;singular value decomposition;standard deviation;futures markets;daily futures return series;logarithmic deviations;finance
+higher order squeezing;phase control;two photon interference;photon statistics;quantum field;squeezing;quantum information;higher order quantum squeezing
+vehicular boltzmann equation;dispersion model;car following theory;traffic dispersion model;boltzmann equation;multi class traffic flow;self consistent traffic flow;vehicular traffic flow
+mixture of experts;classification;data generation;maximum likelihood;hierarchical mixture model;em algorithm;mixture model;hierarchical model
+e marketing;web presence;website design;electronic commerce;web site design;internet marketing;web site design;marketing;transaction related expenditures
+relationship marketing;world wide web;content analysis;web based relationship marketing;hotel;marketing;web content survey;web based marketing;internet marketing
+dynamic pricing;online auctions;lodging industry;pricing;e commerce;auction theory;internet marketing;online auctions
+object recognition;registration;affine invariants;convex polygons;invariants;convex polygons;affine invariant;geometric registration
+spiht;wavelet transform;real time;image coding;image coding;dsp;real time processing;zerotree quantization;hierarchical trees;zerotree quantization
+local moments;accumulation moments;geometric moments;edge detection;local moments
+image denoising;scale consistency;wavelet transform;space consistency;multiresolution decomposition;shrinkage function;wavelets;image restoration;multiresolution analysis;adaptive denoising
+contour detection;topographical distance;watershed segmentation;object motion;tracking;contour tracking;watershed segmentation;object tracking;video analysis;contour tracking
+image compression;multilayered representation;image understanding;image compression;image compression;multilayered image representation
+edge detection;scale space;dynamic range compression;double thresholding;spatial and scale space;edge detection;spatial scale space;wavelets;noise filtering;wavelet transform;adaptive filtering;image restoration
+olfactory bulb;linear separability;finite size scaling;artificial neural networks;olfaction;computational capacity;neural networks;probabilistic receptor model
+discrete wavelet transform;object based coding;lossless coding;inverse transform;<digit> d mri;<digit> d image processing;object based image coding;lossless image coding;image compression;lossy compression
+stabilizer design;synchronous generator;optimal control;turbine controller;synchronous machine;turbine controller
+resonant grounding;fault detection;distribution systems;resonant tunneling
+power electronics;simulation;system dynamics;power system simulation;energy efficiency;simulation tools
+parameter matching;field test;power system simulation;power system modeling;parameter identification;field test data generation;model based control
+computer applications;power;power management;computer networks
+energy management system;control centers;load following control;control center security;energy management system
+security;firewall;network security;computer security;virus detection;malware
+enterprise application integration;integration;integration;enterprise integration;software integration;enterprise integration;business process integration
+risk management;risk management;security;information security;risk;security management;system security
+information theory;synaptic depression;fitzhugh nagumo model;stochastic fitzhugh nagumo model;auditory system;phi divergence;phi divergence;optimality;auditory system models
+construction work;optical fiber networks;information network;electrical facility construction;optical network planning;network planning;information network planning;electrical construction
+data hiding;image watermarking;information hiding;watermarking;distortion;wavelet transform;autoregressive model;image watermarking;data hiding capacity;steganography;capacity analysis
+watermarking;feature points;digital watermarking;image watermarking;geometrical distortions;digital watermarking;feature point detection;image watermarking
+demosaicing;alternating projections;color plane interpolation;inter channel correlation;interpolation;color interpolation;image processing
+gamut mapping;computational color constancy;color constancy;neural net;retinex;image processing;color correlation;neural networks
+gamut mapping;computational color constancy;color constancy;retinex;neural net;illumination invariance;image processing;www;color constancy correction
+perceptual color;synthetic images;image quality metrics;color space;quality image metrics;color perception;image quality metrics;quality metrics;image quality metrics;perceptual color quality
+controllability;exact controllability;minimal time;ingham;shells
+pneumatic control;friction;stick slip;friction compensator;control valves;pneumatic systems
+integrated absolute error;dead time compensator;pid;dead time control;robustness;pid controller;pi controller
+wavelength division multiplexing;wavelength services;wavelength division multiplexing;crest;wave to crest;optical fiber communication
+state feedback;adaptive control;adaptive state feedback control;robust control;exponential stability;linear matrix inequality;uncertainties
+lateral inhibition;unsupervised learning;competition;neural networks;competition
+generalized predictive control;sampled data systems;causal control;non uniformly sampled systems;predictive control;sampling patterns;non uniformly sampled data systems;multirate systems;causality constraint
+observer decomposition;output injection observer;observer;output injection analysis;visual servoing;sparse system models;graphic methods;observer design
+principal component analysis;subspace identification;errors in variables;total least squares;subspace model identification;process monitoring
+mcfc stack;adaptive fuzzy control;radial basis function neural networks;fuzzy control;molten carbonate fuel cell;nearest neighbor clustering;nonlinear modeling;adaptive control;neural networks;nonlinear system identification
+volume segmentation;3d volume segmentation;deformable surface;segmentation;3d volume segmentation;multi modal segmentation;interactive segmentation;volume rendering;haptic rendering
+image guided surgery;image guided surgery;orthopaedic surgery;surgical navigation;medical imaging;virtual reality;medical image analysis;surgical navigation system
+lung metastasis;computed tomography;computer aided diagnosis;knowledge based system;ct images;visualization;image visualization;top down analysis;lung cancer;visualization;ct image analysis
+finite element method;image segmentation;nurbs;finite element model;kidney
+anatomical scenes;visualization;3d visualization;web based interaction;scene analysis;anatomical scene analysis
+mesh cutting;interactive mesh cutting;cut path;virtual scissors;virtual reality;cutting;virtual reality;cut path cutting;interactive cutting;mesh deformation
+panoramic image mosaics;image mosaics;image enhancement;panoramic image processing
+dynamic magnetic resonance;scale invariant segmentation;dynamic magnetic resonance imaging;magnetic resonance imaging;segmentation;neural net;scale space;image segmentation
+phase unwrapping;hybrid algorithm;time effective phase unwrapping;wrapped map;unwrapping;speckle noise;interferogram contour unwrapping
+gabor filters;strain;strain segmentation;strain analysis;image processing;gabor filters;optical flow
+denoising;position estimation;optical signal processing;tracking;image processing;superresolved estimation
+adaptive filtering;noise reduction;hue saturation;color space;hue saturation intensity color space;noise reduction;color image processing;image restoration;adaptive filter kernel
+scale invariance;optical recognition;three dimensional object recognition;radial harmonic filter;mellin radial harmonic filter;object recognition;mellin transform
+camera calibration;radon transform;region of interest;computer vision
+eccentric light beam;autofocus;light beam;eccentric light beam;microscope;light beam lithography;microscope;measurement
+active laser triangulation;<digit> d mapping;packing;<digit> d packing;czochralski nuggets
+moving cast shadow;monocular color traffic image;cast shadow;scene analysis;moving cast shadow detection;monocular color traffic image;shadow detection;color image processing;image segmentation
+error estimation;free form surfaces;mean curvature;curvature;multi scale surface;free form surface;curvature estimation;<digit> d surface reconstruction;gaussian curvature;surface smoothing
+image restoration;liquid crystal optical phased;optical phased array;wiener filter;broadband imaging;liquid crystal display;image restoration;optical imaging;image restoration;broadband imaging
+symbolic substitution;modified signed digit adder;digit set restricted modified signed digit;signed digit adder;one step adder;one step digit set restricted;incoherent correlator;digit set adder
+three dimensional imaging;two step integral imaging;micro optics;integral imaging;two step imaging;image processing;nonstationary imaging
+circular mask;far field diffraction;diffraction limit;near field diffraction;periodic apertures;diffraction;periodic apertures;optical diffraction
+figure ground segmentation;fourier transform;inverse fourier transform;binocular parallax;binocular vision;segmentation;fourier transform;translucent segmentation
+tunable filter;tunable filter;principal eigenvector;liquid crystal;liquid crystal display;color image capture;spectral reflectance;multispectral imaging;principal eigenvector analysis;color image processing;spectral analysis
+image restoration;least mean fourth;regularization;total variation;least mean square functionals;iterative algorithm;smoothing functional;kurtosis;iterative methods
+dynamic programming;motion estimation;correspondence vector field;motion estimation;dynamic motion estimation;image matching
+centroid detection;optical correlation;spatial light modulator;moment function;digital moment;optical image processing;image processing;digital filter
+discrete cosine transform;vector quantization;bit plane coding;wavelet transform coding;block truncation;image bit plane coding;absolute moment btc;block truncation coding;image coding;dct;bit plane coding
+image editing;volumetric decomposition;non photorealistic rendering;image based rendering;plenoptic function;3d reconstruction;scene analysis
+digital holography;zero order diffraction;fresnel integral;image processing
+maximum entropy;two level thresholding;bayes formula;image thresholding;bayesian formulation;entropy;maximum entropy principle;thresholding;bayesian estimation;bayes classifier
+fuzzy logic;digital watermarking;adaptive digital watermarking;human visual system;digital watermarking;adaptive watermarking;fuzzy logic system;image processing
+fourier transform;three dimensional correlation;optical correlator;color pattern recognition;3d fourier transform;optical correlator;optical signal processing;correlation;color correlation;3d color correlation
+target level;edgeworth pareto hull;multi criterion problems;multi criterion problems;multi criterion decision making;multiple criteria analysis;multi criterion decision making
+computer processing;acute period;mental impairments;mental health;clinical decision support systems;computer assisted diagnosis;medical informatics;computer assisted diagnosis;experimental evaluation
+regularization;linear regression;bayesian method;bayesian inference
+plurality voting;approval voting;borda count;self consistent choice;computational social choice;choice rules;choice rules
+inverse problem;heat conduction;hierarchical structure;parabolic equation;hierarchical structure model;cybernetics
+self calibration;active vision;structure from motion;image derivatives;image motion analysis;motion estimation;calibration;3d reconstruction
+ion exchange;compressible ion;mathematical model;inverse problem;compressible ion exchange;finite difference method;ion exchange model;numerical solution
+message passing interface;data transfer;multiprocessor systems;parallel processing;parallel processing;mpi;parallel processing
+kelvin helmholtz instability;hybrid simulation;massless fluid;finite volume method;kelvin;plasma physics;hybrid methods
+computational electromagnetics;lu factorization;computer arithmetic;matrix multiplication;iterative methods
+geometrical optics;indoor propagation;image tree;three dimensional optics;image processing;3d reconstruction;indoor navigation;propagation
+dynamic programming;flip analysis;decision support systems;game theory;game theory
+teaching;computer science education;education;education and training;academic libraries;curriculum
+spreadsheet;vehicle routing;spreadsheet;transportation;pert networks
+simulation;discrete event simulation;language;object oriented programming;object oriented;version;point;language;queue;version;program
+evpi;maximum evpi;probability theory
+structure from motion;surface reconstruction;3d surface reconstruction;geotensity;3d reconstruction;motion estimation;face reconstruction;3d reconstruction
+powerpoint;classroom management;education
+sequential decision analysis;stochastic dynamic programming;dynamic programming;utility theory;bayesian probability revision;decision making;bayesian analysis;stochastic programming
+monte carlo simulation;blitzogram;interactive data mining;risk;simulation software
+management science;spreadsheets;decision support systems;decision support systems;quantitative modeling;management science education;education and training
+management science;numeracy;modeling skills;simulation;modeling;education
+management science;management science education;business science education;curriculum;algorithm based learning;education
+gift acceptance;academic libraries;gifts;academic libraries;academic libraries;library management;science policy
+out of print books;fair market value;out of print books;internet;digital divide
+out of print books;fair market value;out of print books;information and communication technology;internet;digital libraries;economic analysis
+history of science;technology;medicine;science education;education
+information architecture;self organization;information management;information systems
+academic libraries;special collections;case study;academic libraries;information retrieval;acquisitions
+special collections;james ford;data collection
+underground poetry;poetry;culture;library and information professionals;digital libraries;information retrieval;underground publishing
+bounded rationality;emotion;yerkes dodson law
+bounded rationality;emotion;decision making;emotions;kaufman
+self control;emotion;emotional choice
+life cycle;personal computer industry;industry evolution;product development;quality management;industry evolution;personal industry;process improvement
+discounted utility;hyperbolic discounting;intertemporal preferences;stationarity axiom;discounted utility theory;stationarity;hyperbolic distribution;intertemporal preferences
+labor market;unemployment;hiring;unemployment;institution
+collective choice;ultimate control group;mix hierarchy;control group;control theory;voting;control;voting;cybernetics;organizational structure
+information architecture;card sorting;bilingual web;content based web design;bilingual information retrieval;web design;bilingual;information retrieval
+modularity;property rights;organization;technology;cybernetics;rights
+internet;urban internet;internet design;urbanism;information design;urban informatics;design process
+boundary element method;optimum design;injection moulding;design sensitivity analysis;cooling lines;optimization
+materials requirements planning;strategic stocks;safety management;strategic planning;inventory
+wave energy;impulse turbine;rapid prototyping;computer aided design;finite element analysis;finite element analysis
+combined dispatching;flexible manufacturing system;flexible manufacturing systems;dispatching rules;simulation;performance evaluation;routeing strategies;dispatching
+flexible manufacturing system;fuzzy logic;real time scheduling;simulation;intelligent fuzzy decision system;scheduling;fuzzy logic system;intelligent system
+computer aided design;product development;knowledge based system;design for automation;design for automation;injection moulding;design for manufacturing;feature selection;product design;process planning
+fractals;fractal dimension;boundary conditions;tool chip;finite element analysis;machining boundary conditions
+layer based machining;support structure;layered manufacturing;subtractive shaping;machining;machining support
+voltage compensation;alaska;intertie;voltage stability
+information architecture;information interaction;interactivity;information interactivity;user interface;information retrieval;information presentation;information presentation
+all optical logic;semiconductor optical amplifier;semiconductor optical amplifier;gain nonlinearity;all optical logic gates;semiconductor optical amplifier;optical communication
+computed tomography;x ray computed tomography;alternating minimization;filtered backprojection;computed tomography;x ray tomography;metal artifacts;inverse problems;image reconstruction
+positron emission tomography;mutual information;image fusion;head and neck;head and neck area;matching pet;image registration;registration;pet;pet
+food processing;meat products;food;farmland foods;food safety
+gauss ' inequality;statistical inference;bayesian decision procedure;markov chain monte carlo;partial prior information;bayesian inference;gauss inequality;statistical inference;partial information;prior distribution
+attracting set;global stability;limit cycles;enzyme mediated reaction;global stability;stability;saturation;bifurcation;loss;enzyme kinetics;stability
+crop production;southern africa;spatial correlation;zimbabwe;simulation;rainfall simulator;spatial correlation analysis;rainfall runoff;meteorological modeling
+spanning tree;all spanning trees;minimal paths;algorithm;flow;minimal paths;vlsi;routing
+injection moulding;hele;nonlinearity;hele shaw flow;nonlinear systems;non newtonian fluid;non newtonian flows;weak solutions;hele shaw flow;nonlinearity;nonisothermal;nonlinearity;nonlinear equations
+linear programming;or in manpower planning;decision support systems;operations research methods;linear programming;linear programming problem;firm analysis;location
+discrete output feedback;second order systems;sliding mode control;moving switching line;output feedback;reaching law;discrete output feedback control;switching line
+navigation;human computer interaction;law enforcement;usability;interface design;user interface design;usability evaluation;information retrieval
+nonlinear programming;goods and services;advertising campaign;optimization;advertising campaign planning
+cross gain modulation;all optical xor gate;semiconductor optical amplifier;all optical gate;optical communication
+trust;online advice;internet;trust in e commerce;personalization;advice;user experience;online shopping;information quality
+internet gambling;gambling;speculations;internet;social networking sites
+computer mediated communication;remote management;remoteness;intranets;communication;remote work
+collective action;mass communication;internet;online;online mass communication;social identities;internet addiction;social influence;web 2.0
+deception;identity deception;social identity;computer mediated communication;internet;virtual communities;virtual communities;social identity theory;explanations;identity;internet deception;identity management
+social identity;deindividuation;computer mediated groups;group identity;computer mediated communication;personal identifiability;social identity theory;group support systems;group discussion;group identity;asynchronous collaboration
+internet;adverse life;longitudinal survey research;trauma;online survey research;longitudinal study;internet addiction
+internet;dropout;ts;internet based experiment;information security;internet experiment
+pervasive computing;supply chain management;tracking;pervasive computing systems;enterprise applications
+psychology;internet;computer mediated communication;design;social theory;internet use
+chlorophyll fluorescence;depth of focus;photosynthetic function;image reconstruction
+brownian motion;allan variance;fractal brownian motion;fractal dimension;variance estimation
+ideal sliding mode;convex programming;sliding mode;exact penalty functions;penalty functions;ideal sliding mode;exact penalty function
+real time systems;complex structure system;recovery;complex systems;hardware implementation
+internal combustion engine;combustion engine;combustion engine;combustion engine control;power;thermal management
+static scaling;computational processes;optimization;load balancing;real time systems;dynamic load balancing;scheduling;distributed computing;distributed computing;computational grids;software engineering
+failure tolerance;channel failure tolerance;generalized hypercube;double p ary hypercube;double p ary hypercube;hypercube;p p rearrangement;p ary hypercube
+game theory;game theory;characteristic function;cooperative games;nash equilibrium;game
+location;transport nets;transport network;heterogeneous networks;location problem;network design;branch point
+knowledge management;key performers;knowledge management system;power system
+active systems;motivation;criteria and motivation;multi agent systems;control
+flexibility;uncertainty;technical system;fuzzy mathematical model;fuzzy logic
+fuzzy logic;deformable space;control system;fuzzy logic controller;deformable space control;fuzzy logic control
+hidden convexity;conical control constraints;continuous time systems;discrete time systems;finite dimensional linear systems;stationary linear systems
+kharitonov theorem;stable polynomials;discrete systems;kharitonov theorem;auxiliary plane;discrete differential geometry;linear systems;kharitonov;kharitonov;stable set
+mean square exponential stability;phase trajectory;asymptotic probabilistic stability;stochastic systems;random jump;asymptotic stability;markov process;stability;random jump system
+optimal control;nonlinear control;time optimal control;linear matrix inequality;nonlinear systems
+system embedding;bezout matrix identity;polynomial equations;substitutions;constructive mathematics;bezout identity
+reachability set;sequential refinement;optimal control;regularization;terminal functional;optimal control theory;control systems;variational inequalities
+integration range;universal decomposition;exponential functions;nontrigonometrical polynomials;integration of exponential functions
+information technology;fuzzy linear regression;fuzzy set theory;regression;fuzzy regression
+linear interval systems;interval systems;synchronizing sequence;linear programming;interval arithmetic;synchronizing set
+physical defects;fault diagnosis;behavioral defects;diagnosis;heat consumption;fault diagnosis;heat system diagnosis
+computer aided control;fault tolerance;reliability;method;systems;event graph;fault tolerant systems;adaptation;multiversion threshold;standard architecture;architecture
+hypercube;serial transmission;interconnection network;parallel processing;multiring;data transmission
+decision diagrams;circuits;multivalued components;complexity;linear models;algorithm;algebraic models;testing;algorithm;circuits
+structural identification;identification;computer aided diagnosis;structural analysis
+network reconstruction;computational complexity;combinatorial optimization;complexity;optimization;integer programming;sequence analysis
+pulse frequency modulation;frequency modulation;pulsed signals;stabilization;frequency modulated signals;feedback circuit;pulsed neural networks;linear systems
+optimal control;multistep control processes;reachability;multistep methods;formal methods;process control
+generalized confidence set;confidence set;random vector;mean value distribution;random vector estimation
+high end computing;new product innovation;parallel computing;technology strategy;new product development;evolution;parallel computing;technology strategy
+strong active solution;non cooperative games;equilibrium;game theory;nash equilibrium;dynamic;basic equilibria;strong equilibrium
+system embedding;reduced observer;matrix transfer function;multivariable systems
+bounded time interval;frequency characteristic;spectral characteristics;spectral analysis;linear systems;singular characteristics;singular integrals;frequency spectrum
+quantum computing;solid state devices;solid state devices;quantum algorithms;computer vision;scaling
+privacy;privacy abuse;security;privacy policy enforcement;data privacy;privacy policy enforcement
+cyber terrorism;security;pedagogy;digital rights management;security;enterprise;cyber security;enterprise security
+security;trusted computing;trusted computer systems;computer system security;trusted computer systems;computer security;information security;it security
+perrun virus;jpeg;virus;image processing;digital forensics;jpeg
+international information security;information security policy;information security policy;information security policy;information security policy;information security policy fit;international information security policy
+crisis management;security crisis management;security;information security;security management;security policy
+analytic hierarchy process;goal programming;information technology;evaluation;multi criteria decision making;goal programming;multiple criteria decision making;ahp;information technology management;decision support systems
+data storage;data storage re format;data storage re format;storage management;database
+decision support;performance buildings;industrial case study;performance management;automotive industry
+virtual engineering office;global manufacturing;real time systems;virtual manufacturing;global manufacturing;distributed systems;engineering design
+spot welding;post haste;sorting;post haste;robot sorting
+condition monitoring;reliability centered maintenance;robot condition monitoring;reliability centered maintenance;sup it robot;sup it robot
+car windshield assembly;car assembly;robotics;robot assembly;laminated assembly
+work cell;simulation;automation;automation;computer aided design;robotics;robotics
+supply chain management;press shop;supply chain;industrial it architecture
+discrete manufacturing;order driven planning;consumer goods;order driven planning;supply chain management;real time production;production planning;manufacturing;enterprise resource planning;scheduling;collaborative work;consumer electronics
+t matrix;curve fitting;cross sections;extinction;effective radius;extinction cross sections;total extinction;numerical methods
+discrete manufacturing;manufacturing;trends;discrete manufacturing;manufacturing trends;environmental management
+intuitionistic modal logic;beth property;modal logic;intuitionistic logic
+boolean algebra;cardinal invariant;homomorphic image;ultraproducts;squares;homomorphic image
+law firms;information systems;competitiveness;business value of it;information systems strategy;it strategy;law competitiveness;it governance
+electronic signatures;certification;security;service;case;electronic commerce;legal aspects;electronic signatures
+data protection act;turle;distress;newspapers;data security;internet;legal aspects
+optimisation;internet;web sites;trade mark infringement;reed solomon codes;plc;reed solomon codes;electronic mail
+computer implemented inventions;patent;software;european legislation;european patent office;patent analysis;inventions;directive;patent;software inventions;computer patent;historical
+english criminal law;criminal law;s cybercrime;cybercrime;offence;cyberobscenity;ambit;english;english offence
+e government;e government;modernisation;public services;legal aspects;public policy;electronic commerce
+it staff;vendor qualifications;information technology;qualifications;it workforce;vendor managed skills
+litigation support systems;litigation;evolution;litigation support systems;printing;legal aspects;information systems
+electronic storage;legal;file storage;solicitor;file storage;legal file storage;office storage;electronic storage;internet
+electronic data exchange;real estate;data exchange;property industry;electronic data interchange;data exchange;real estate data exchange;databases;software engineering;information systems development
+e mail;legal profession;hardware encryption;communication;encryption;e mail profession;legal aspects;cryptography;encryption standard
+spam;e mail;dea;web based services
+web site;web site design;internet
+web strategy;internet;web site design
+natural language processing;data mining;medical informatics;man machine interface;humanist;medical informatics applications;medical informatics applications;pacs;ontologies
+health informatics;medical informatics;intellectual property rights;medical informatics;medical informatics;modeling;information technology and systems
+internet;consumer health informatics;evidence based practice;health informatics;guidelines;evidence based practice;personal health informatics;health;internet use;health services;health informatics
+iscsi;fibre channel;ip
+generalized markup language;sgml;data exchange;health checkup data;standard protocol;health information technology;data exchange protocol;electronic health record;medical informatics;information systems
+lifestyle improvement;uric acid;health guidance;decision support system;health assessment;health care;medical informatics
+information technology;organizational design;organization design;environmental instability;shadow structure;organization;organizational structure;information technology organization;information technology organization;organizational design;it management
+knowledge management;organisational commitment;knowledge based structures;knowledge management systems;organizational knowledge;organisational culture
+information systems;organization structures;evolution;internet;information systems evolution;information systems evolution;organizational structure;organization structure
+general enterprise model;enterprise modelling;enterprise modelling framework
+monte carlo simulation;zeolite;high throughput screening;zeolite;molecular dynamics;zeolite synthesis
+intelligent control;neural network;pm synchronous servo motor;variable structure intelligent control;variable structure control;servo motor;linear observer
+differential geometric theory;variable admittance;global linearization;nonlinear modulation;ac dc power system;hybrid ac dc power system;differential geometric method;variable admittance connected;ac dc power system;nonlinear control
+mobile computing;competition;smart phone;mobile computing education
+firewall;data security;networks
+service discovery;pervasive computing;jini;mobile computing;service location;service discovery standards
+wearable computing;interface design;speech recognition;speech recognition;interface design;speech recognition and synthesis
+internet services;ubiquitous computing;mobile agents;middleware;mobility;mobility management;context aware;mobility;mobile computing;distributed systems;mobile computing
+virtual reality;interaction design;knowledge workers;computer supported cooperative work;knowledge management;user interface
+pervasive computing;data management;location dependent information services;information services;location dependent services;mobile computing;distributed systems;data sharing
+privacy control;pervasive computing;context aware systems;privacy;information space;human factors;algorithms;design;security
+chat;context awareness;context aware computing;semantic conflicts;semantic web;information retrieval;user modeling
+content adaptation;quality of service;decision engine;context aware computing;context awareness;content based filtering
+pervasive computing;middleware;context sensitive middleware;context aware computing;reconfigurable computing;distributed systems;pervasive computing middleware
+activity recognition;location recognition;dead reckoning;wearable sensors;dead reckoning;activity recognition;wearable computing
+continuous flow transport;amhs;<digit> mm;software simulation;automation;conveyor based simulation;software;wafer scale integration
+mergers;mergers;success
+ubiquitous computing;cell biology;smart environments;collaboration;smart environments;collaboration;ubiquitous computing and laboratory
+broadcasting;picture intranets;user centered design;information services;digital libraries;digital libraries
+java;portability;j2ee;software engineering;software portability
+security;security;security policy
+digital rights management;cryptography;online cryptography;security;data security;encryption
+distinguishability;quantum states;orthogonal quantum states;relativistic constraints;quantum information;relativistic information theory;orthogonal states;entanglement
+polymerase chain reaction;ultrathin layer gel;microwell polymerase chain reaction;dna amplification;gel electrophoresis;visualization;microseparation;dna photodiode
+health care;electronic health records;health information technology;health information technology
+space time modulation;parametric control;long waves;wave propagation;absorption;nonreflecting coating;active coating;wave propagation
+publishing;fulfillment;software engineering
+writing;information storage and retrieval;publishing;rfp;digital libraries;fulfillment of information
+digital libraries;library services;quality assurance;peer review;community sharing;ilumina;digital libraries;library services;ilumina;information retrieval;libraries;instructional resources;distributed library
+licensing;national site licensing project;cnslp;innovation;scholarly publishing;national licensing;research collaboration
+academic libraries;site licensing;information systems committee;electronic journals;electronic publishing;license management;site selection
+consortial purchasing;new zealand;caul;australian libraries;australia;consortial purchasing agent;information sharing;electronic publishing
+licensing;business models;internet;information services;business models of information;web licensing
+library consortia;international library consortia;consortia;futures;library management;international consortia;development
+open archives initiative;digital libraries;interoperability;metadata;metadata harvesting;information retrieval;oai;digital libraries;metadata management;metadata management
+content standards;electronic books;sound engineering;publication structure;xml;standards;electronic publishing;information retrieval;metadata
+conjunction operations;generalized conjunction operations;function approximation;fuzzy modeling;membership functions;fuzzy sets;generalized conjunction operations;parametric programming
+digital libraries;research libraries;scholarly communication;libraries;project management;library management;scholarly publishing industry;research libraries
+online books;scholarly online books;online books;scholarly publishing;academic libraries;information retrieval;online publishing;webometrics
+scholarly publishing;digital libraries;california digital libraries;california;publishing;scholarly publishing;cdl;digital libraries
+scholarly publishing;intellectual property;scholarly publishing;libraries;information services;biological databases
+electronic publishing;symbiosis;research libraries;university libraries;publishing;information policy
+support vector machines;thermal error;error prediction;machine tool thermal error;thermal error prediction;error prediction
+mutual exclusion;shared memory;shared memory;distributed algorithms;adaptive algorithms;concurrency;process crash
+congenial talking philosophers;computer networks;talking philosophers;group mutual exclusion;message passing;shared memory;distributed algorithms;distributed systems;distributed algorithms
+self stabilization;fault tolerance;dynamic self stabilization;universal self stabilization;distributed computing;stabilization;synchronous systems;quiescence time synchronization
+wait free;finite state analysis;two process;test and set;two process test;single writer test;randomized test;wait free algorithms;test set reduction
+neural networks;air component modeling;rule based models;fuzzy rules;incremental learning;fuzzy rule based systems;evolving fuzzy systems;rule based systems;air conditioning
+olap;enterprise microsoft project;collaboration;web based services;web project management;information systems;enterprise collaboration
+gui;design assets;collaboration;integration;design process
+raid;mercury;measurement;siteseer;availability;web services;monitoring;security;management
+quality of service;accessibility;web accessibility;streaming content;streaming;streaming media;web accessibility;accessibility;html;multimedia content;accessibility guidelines
+performance monitoring;world wide web;web performance monitoring;internet;web performance monitoring;web performance monitoring;web performance monitoring
+usability;culture;falls;user experience;online testing
+debugging;web applications;tools;web;web engineering
+memory management;unsafe code;c language;c plus;step backward;looser;pointers
+digital collections;virtual collections;user defined virtual collections;user interface design;digital libraries;user interface design;usability;information retrieval
+archival information systems;descriptive standards;end user computing;standards;information management;archival history;virtual organizations;data sharing
+learning weights;quasi weighted means;weighted means;parametric functions;quasi weighted regression;learning theory
+virtual collections;digital archives;information retrieval;digital libraries;virtual libraries
+academic libraries;rejuvenation;archivists;union leadership;labor unions;bureaucracy;union;momentous;union leadership;labor rejuvenation
+encoded archival description;data envelopment analysis;archival programs;ead;archival description method;productivity
+k <digit> instruction;archival materials;archival education;digital libraries;education;web based instruction
+david bearman;archival theory;archival theory;archival history;electronic publishing
+pattern recognition;fuzzy logic;molecular docking;molecular docking;downhill simplex method;downhill simplex method;biomolecular complexes;surface complementarity;molecular surface docking;fuzzy logic optimization
+pattern recognition;molecular complementarity;molecular surfaces;electrostatic potential;structure based drug design;molecular modeling;complementarity;molecular modeling
+parallel algorithms;canonical mp2 energies;ao integrals;mp2 energies;molecular dynamics;parallel computing;canonical mp2 calculations
+protein folding;protein folding;correlation matrix;correlation matrix;conformational analysis;molecular coordinates;multidimensional scaling;correlation analysis
+variable selection;subset selection;qspr;genetic algorithm;qsar;molecular similarity
+computing with words;fuzzy automata;extension principle;formal model;fuzzy automaton;formal languages
+molecular equivalence number;topological shape;structural features;structure based drug design;chemical library;molecular similarity;molecular similarity;structural similarity
+neural networks;qsar;qspr;generalization;ensemble learning;ensemble;aggregation;ensemble
+median partitioning;subset selection;genetic algorithm;molecular descriptors;data mining;entropy
+scaling;molecular descriptors;molecular similarity;chemical information based scaling;topology similarity
+mtd;mtd method;medicinal chemistry;mtd pls;acetylcholinesterase;hydrophobicity;hydrophobicity;molecular modeling;hydrophobicity;qsar analysis
+high performance liquid chromatography;qspr;quantitative structure property relationship;quantitative structure property relationship;ultraviolet spectral absorbance;qsar;spectral analysis;uv spectrophotometric;zindo;organic compounds
+crown ethers;macrocyclic effect;substructural molecular fragments method;molecular fragments method;stability constant;substructural molecular fragments method;substructural;molecular fragments method;qsar
+partial order theory;linear extensions;solubility;qsar;linear regression;order based qsar;structural properties
+ze isomerism;molecular topology;qsar;topological charge indices;topological indices;tubulin;isomerism descriptors;ze;molecular connectivity index
+computer mediated communication;international students;computer mediated communication;international collaboration
+interval type <digit> fuzzy logic;karnik mendel iterative procedure;interval type <digit> fuzzy sets;uncertainty bounds;karnik mendel iterative procedure;bound sets;type reduction;type <digit> fuzzy systems
+compliance;problem solving education;case model;web based learning;education and training;education;learning styles
+emergent design;discomfort;web based course;web based learning;science education;secondary education;qualitative research;science;pedagogy
+internet inquiry;internet;ecology;information literacy;internet education;web based instruction;internet instruction;online learning
+problem based learning;alien rescue;hypermedia learning;hypermedia;problem based learning;middle school;computer assisted instruction;middle school education;educational technology
+project based learning;cultural heritage;computer multimedia;project based learning;educational technology;computer assisted instruction;pedagogy and technology
+information complexity;working memory;presentation media;comprehension;multimedia presentation;multimedia;multimedia learning;multimedia learning
+linear discriminant analysis;principal component analysis;raman spectroscopy;raman spectra;tissue characterization;real time;real time data analysis;in vivo data analysis;multivariate analysis;tissue classification
+voice coil;parameter estimation;loudspeaker voice coil;linear regression;series resistance;inductance;voice coil inductance;loudspeaker inductance;frequency dependent inductance
+sparse linear systems;gaussian elimination;computational complexity;global algorithms;phase transitions;rsa cryptosystem;galois field arithmetic;sparse matrices;cryptography
+memory recall;hippocampus;noise effect;entorhinal cortex;stochastic noise;neural network;dynamical neural network;noise;stochastic noise
+polynomial neural networks;group method of data handling;fuzzy neural networks;fuzzy modeling;computational intelligence;genetic algorithms;gmdh;neural networks;fuzzy neural networks;fuzzy neural networks;fuzzy systems
+microactuator;mems;self tuning control;computer disk drive;dual stage servo systems;servo systems;dual stage servo system;computer disk drive;self tuning control
+nuclear magnetic resonance;molecular photography;reproducing input pattern;nuclear magnetic resonance spectroscopy;magnetic resonance spectroscopy;liquid crystals;spin cluster;pseudo 2d spectra;molecular imaging
+active noise control;vibration control;earshell vibration;noise reduction;velocity feedback;model based control;headset;piezoelectric actuator
+traffic noise;active noise control;coherence;high rise building;mode coupling;traffic noise coherence
+remote storage;climate control;size;storage;remote memory access;online libraries;catalog
+hours of operation;academic libraries;reference hours;arl;libraries;academic libraries hours;library users;information systems;research libraries
+legal reference;internet;legal aspects;web design;information retrieval
+librarianship;library accessibility;internet;library and information professionals;accessibility;library services;information retrieval;service delivery;online libraries
+job advertisements;content analysis;librarianship;library and information professionals;academic libraries;electronic librarian;electronic publishing;information retrieval;libraries;job scheduling
+customer in reach;reach;library strategic systems;illiad;library and information professionals;illiad;strategic information systems;customer reach;information technology
+power;credit risk;power
+qualitative modeling;parameter identification;built up model;rule base reduction;data mining
+academic libraries;thin client;support;computer systems and technologies;computer systems;device;computer;computation;starters
+academic libraries;public libraries;community making;community education
+word frequency;internet search engines;search engines;frequency estimation;information retrieval;internet;word frequency analysis;internet;internet search engines;internet search engines
+word identification;visual word identification;visual language;word recognition
+microsoft excel <digit>;database;database;pronunciation characteristics;web accessible database;pronunciation
+register reprogramming;full screen display;reprogramming;ultrafast video;full screen video;vesa;ultrafast display;vesa;vesa;video reprogramming
+keyboard delay time;joystick;keyboard delay time;keyboard delay;sound source
+reinforcement;computer program;operant schedule;scheduling;operant conditioning
+java;on line learning;computer science education;education
+world wide web;experimental design;javascript;visualization;web based tool;web based software;software development;visual programming
+adaptive control;takagi sugeno fuzzy systems;radial basis function neural networks;fuzzy control;nonlinear systems;neural networks;takagi sugeno fuzzy model;neural networks;adaptive fuzzy control;adaptive control theory
+active learning;psychology;interactive learning environments;java;animation;computer assisted instruction;animation
+information architecture;constructive induction;inductive design;internal theory;design process;user centred design;design process;inductive design;design cognition;information visualization
+information architecture;web portal;semantic web;information retrieval;user interface;web portal;information retrieval
+information architecture;curriculum;information organization;education;information architecture education;information systems;curriculum development
+information architecture;asis;summit;information systems;information management
+internet;segmented by use;internet on public libraries;public libraries;consumer model;consumer behavior;public library resources;library resources;internet resources;internet resources;information technology
+fractional frequency distribution;lotka ' s law;duality;convolution;irregular fractional frequency distributions;lotka ' law;fractional calculus;lotka;rao index;duality
+digital democracy;linear programming;digital democracy;internet;information retrieval;web information retrieval;relevance
+inflation;inventory;lot size;inventory control;shortages;deterministic lot size;inventory control
+wiener process;reliable products;identification rule;reliability;identification;product degradation
+extension principle;fuzzy c means;linguistic vector;decomposition theorem;linguistic modeling;fuzzy sets;fuzzy decomposition
+warranty;warranty reserves;total discounted warranty;inventory;warranty policy;replacement
+mac os x;data collection;mac;sonified graphs;configuration tools;realbasic;multimodal interfaces;auditory display;data collection techniques
+real time systems;benchmarking;timing standards;real time systems;performance evaluation;timing prediction
+animation;file format;user;server;user;timing;experiment;observer;animation programming;program;experiment
+web server;quality control;server side experiments;server side programming;cgi;web based software;programming environments;software engineering;java
+higher education;learning management systems;open courseware;ethics;courseware;e learning;web based learning;pedagogy;open courseware management systems
+javascript;probability learning;web experiments;web based learning
+latent semantic analysis;self explanation;verbal protocols;self explanation
+personality;internet;web based;computer mediated communication;web based education;internet;internet use;mobile computing
+web site design;document level literacy;literacy;web design;skills;user studies;information retrieval;educational web;document level education
+fuzzy control;error decoupling;multivariable process systems;adaptive control;fuzzy logic control;fuzzy control;multivariable systems
+computer security;authentication;proactive password checking;computer security;computer security;user authentication;password;password cracking;passwords;proactive password authentication
+data visualization;multidimensional data;tcl tk;scatter plots;visualization;multidimensional visualization;data visualization;visual analytics
+repeated ordinal outcomes;analysis of variance;mixed effects models;generalized linear model;nlmixed;ordinal outcomes;repeated measures;sas;nlmixed
+psychology;internet;computer assisted instruction;software engineering
+copper;niche market;niche management;telecommunications;network edge and feature extraction;internet access
+fresh voices;internship;computer science
+big it;it projects;project management;information technology;it investment
+image registration;wavelet transform;wavelet decomposition;wavelet;parallel processing;parallel computing;wavelets;correlation
+genetic algorithms;multiobjective optimization;robust control;multiobjective robust control;pid controller;multiobjective optimization
+nuclear power plant;power plant;training;shadow power plant;commissioning;nuclear power plant
+game theory;ryder cup;team captains;team strategy
+integer programming;or in health services;mount sinai hospital;operating room time;decision support systems;mount technology;surgical planning;programming
+small business;research and development;small business innovation research;business strategy;innovation planning
+continuous improvement;end user modeling;project benefit faculty;project management;projects;project management;project management;student consulting projects
+competitive advantage;strategic information systems;research management science;strategic information systems;strategic information systems;information technology management
+world wide web;game theory;optimization;linear programming;baseball;play off race statistics;play off elimination
+revenue management;opportunity analysis;software development;business value of it;revenue management systems;software engineering;software development process
+information rate;secret sharing schemes;cryptography;lower bounds;secret sharing schemes;information theoretic security
+quality of service;resource partitioning;self adjusting;qos;quality of service management;self adjusting systems
+fault diagnosis;genetic algorithms;qualitative bond graph;qualitative modeling;evolutionary algorithms
+optimal routing;routing;interconnection networks;torus;torus;interconnection networks;parallel processing
+competitive ratio;competitive analysis;scheduling;online algorithm;availability constraints
+retrieval selection;random duplicated assignment;disk stripping;video server;video databases;random duplicated assignment problem;data placement
+edit distance;run length encoding;run length encoding;algorithms and data structures;pattern matching;string algorithms
+fault tolerance;hamiltonian path;interconnection networks;fault tolerant embedding;hamiltonian path;hypercubes;hamiltonian connected;hamiltonian cycle
+identity based signature;society oriented signature;digital signature;signature;identity;cryptography;digital signature;anonymity;anonymous signers;bilinear pairings;society oriented cryptography
+operational phase space probability distribution;quantum communication;phase space probability distribution;quantum teleportation;gaussian noise;quantum information theory
+banach space;isometric embedding;level continuous fuzzy set;cauchy problem;cartesian product;fuzzy set;embedding;level set;convex banach space
+centroid method;interval valued intuitionistic fuzzy set;intuitionistic fuzzy set;centroid;interval valued intuitionistic fuzzy set;correlation coefficient
+equivalence relation;rough set;approximation;neighborhood operator system;binary relation;rough set theory
+model predictive control;slow temperature control;barrel temperature control;autotuning
+binary relation;multiplicative error;numerical function;interval order;interval order;multiplicative error function;threshold error;numerical analysis
+structural analysis;pretopological;pseudoclosure;pseudoclosure;pretopological structure
+performance evaluation;b sup tree;batch constructing;b sup tree;batch index;data relocation
+cybernetics;control;synthetic simultaneity
+constraint logic programming;multi agent systems;logic programming;multi agent systems;distributed logic programming;constraint programming
+self organizing feature maps;feature maps;kohonen networks;artificial neural networks;sea level forecast;self organizing map;u matrix;sea level forecasting;forecasting
+cost benefit analysis;decision support systems;rail grade crossing;fra objectives;rail crossing analysis;intermodal transportation
+natural language processing;language processing;dialogue;meaning processing;meaning;information retrieval
+learning;biological modeling;computational model;automata;autonomous systems;artificial neural networks;neural networks;autonomous robots;biological modeling
+uzi;internet;nissan;japan;dispute;dispute
+frequency domain response;proportional integral derivative;optimal control;proportional integral derivative controller;time domain response;time delay systems;pid control
+treaties;internet;internet treaties;blocking;libel;libel;virtual communities;regulation;internet treaties
+electronic voting;voting;computer forensics;online voting;voting protocols;atm
+tablet pc;pen based computing;pen based computing;pen based computing;handheld computers;pen based computing;pen based computing;handwritten text processing
+optimal control;lyapunov stability;linear quadratic regulator;horizontal waypoint guidance;line following guidance;line following guidance;linear quadratic regulator;waypoint guidance;horizontal waypoint guidance;waypoint guidance
+tracking;electromagnetic vector sensor;adaptive beamforming;source tracking;source localization;parallel processing;multiple source;tracking and tracking
+state estimation;recursive state estimation;hybrid systems;markov chain monte carlo;recursive estimation;continuous valued target states
+matlab;pulse compression;radar;code
+linear synchronous motor;trapezoidal velocity profile;sliding mode control;incremental motion control;motion control;permanent magnet motor;multisegment servo drive;servo drive;incremental control;trapezoidal profile
+maximum power point tracking;fuzzy controller;interleaved dual boost converter;solar cell array;interleaved dual boost converter;feedforward loop;back propagation algorithm;fuzzy logic controller;feedforward neural network;photovoltaic;photovoltaic converter
+p id;pid;standard;process control;xml
+srm drive;quantitative speed control;speed control;inverse model;fuzzy control;feedback control;fuzzy logic control;adaptive control;inverse model
+photovoltaic power inverter;power inverter;taguchi method;robust fuzzy control;photovoltaic;fuzzy control;fuzzy logic controller;robust control;taguchi method;photovoltaic power inverter
+wavelet neural network;state feedback;brushless dc motor;linear brushless dc motor;robust control;wavelet neural network;wavelet neural network
+sample matrix inversion;maximum likelihood estimation;adaptive matched filtering;covariance matrix;matched filtering;adaptive filtering;outlier detection
+star catalog;brightness detection;on board database;brightness independent initial acquisition;star inspection;sensor fusion
+filter spawning;actuator failure;partial failure adaptation;estimation;multiple model estimation;model predictive control;fault diagnosis;failure estimation
+matched filter;spatial filtering;signal processing;fetal cardiac interference;template scaling;biomagnetic;fetal cardiac interference;fetal;spatial filtering;cardiac interference;biomagnetic recordings
+brain computer interface;visual evoked potential;steady state visual evoked potential
+gauss newton;regularization;activation time;heart from electrocardiographic;inverse algorithm;inverse problem;heart from electrocardiographic mapping;inverse problems;myocardial infarction;nonlinear optimization;noninvasive imaging
+biomedical signal analysis;multivariate autoregressive model;autoregressive model;electroencephalogram;biomedical signal processing;time varying parameters;bayesian inference;multivariate autoregressive model;nonstationary autoregressive model;autoregressive model
+supervisory control;hybrid systems;fuzzy events detection;linguistic model;fuzzy logic
+breath detection;artificial neural networks;neural networks;classification;feedforward neural networks;sleep;sleep expiration;respiratory system;automated detection
+model selection;wald test;goodness of fit;bayes information criterion;residual variance;electromagnetic source analysis;electroencephalogram;hotelling ' s test;vefs;electromagnetic analysis
+renyi entropy;renal blood flow;time frequency;time frequency analysis;blood flow;renal blood flow;time frequency;autoregulation;wavelet analysis;myogenic feedback
+ecg analysis;cluster analysis;vector quantization;min max optimization;simultaneous perturbation stochastic approximation method;ventricular activation;spsa;ecg analysis
+cellular automata;simulation;computer simulation;cellular automaton;computer simulation and modeling;intestinal microflora;ecological model
+conformal mapping;complex cross section;finite element method;schwarz christoffel toolbox;coaxial couplers;schwarz christoffel method;coaxial structures
+millimeter wave;global simulation;photonic circuit simulation;convolution;photodetector;time domain simulation;photonic integrated circuits;millimeter wave photodetector;convolution based simulation;global simulation
+differential quadrature method;nonuniform transmission lines;asymptotic waveform evaluation;transmission lines;moment matching;lossy transmission lines;differential quadrature method;modeling;modeling;numerical modeling
+finite element time domain;perfectly matched layers;finite element method;active microwave circuits;time domain
+low voltage;offset cancellation sense amplifier;sense amplifier;data retention time;dram;low power;cmos analog integrated circuits;low voltage sensing
+insider investment;industry insiders;nextel;cox communications;nortel;insider threat;industry competition;regulation
+genetic algorithm;pid controller;tuning;tuning method
+low power;mobile personal digital assistant;embedded dram;rendering engine;dram;low power design;low power design;vlsi;mobile device
+differential quad switching;digital to analog converter;quad switching;direct digital modulation;analog to digital conversion;digital to analog converter;differential switching;switching;dac
+frequency acquisition;phase frequency detector;low power;phase locked loop;cmos analog integrated circuits;frequency acquisition techniques
+high voltage;level shifter;high density;flash memory;latch;high voltage integrated circuits;high density negative gate;cmos;low voltage design
+cache memory;cmos cache memory;four way set associative memory;cmos digital integrated circuits;associative memory
+inductive logic programming;machine learning;learning function free horn clause;spatial relations;machine learning;spatial reasoning
+windows xp;fast user switching;user switching;terminal server;switching;fast switching
+net common language runtime;run time;regex;reflection;reflection
+reverse engineering;obfuscation;intellectual property;. net obfuscation;software obfuscation;software obfuscation
+closed loop;lqg benchmark;controller performance;linear quadratic gaussian;linear quadratic gaussian benchmark;feedforward control;data driven subspace approach;lqg benchmark
+spice;lossy spice model;voltage mode circuits;ohmic discharge
+cad cae;software aids;flyback converter;power supply;dc dc converter;dc dc converter;cad cae integration;power system planning;power system planning
+virtual reality;disability awareness;accessibility;children;mobility impairments;disability;collaborative learning;user experience
+web based instruction;learning;white space;computer mediated communication;web based instruction
+electronic telecommunications;computer mediated communications;e mail;computer mediated communication;e mail attitudes;interpersonal relations
